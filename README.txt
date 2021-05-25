@@ -13,9 +13,7 @@ Lunar Magic
 yychr
 You can found these programs in https://www.smwcentral.net/ !
 
-
-
-
+message from me 1: Hey, it's been a long time making an update! And while in that time, I thought (and probably you guys too) v0.1.3.8 was final version, but no! Here's v1.4! I am trying my best to make some musics and things. If I am not making an update for a longer time, please understand that I discontinued making game or prob making musics or an update. I hope I can make an update soon :)
 
 
 
