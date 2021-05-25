@@ -8,6 +8,10 @@ Links:
 https://www.emulator-zone.com/snes/snes9x --Snes9x
 https://dl.smwcentral.net/11474/floating.zip --Flips
 Have fun!
+The programs I used while making this rom hack is:
+Lunar Magic
+yychr
+You can found these programs in https://www.smwcentral.net/ !
 
 
 
@@ -19,9 +23,9 @@ And!..........
 im out of ideas plz hlep if u hlep tysm then u think maybe im gana put u in the credites if ur hlep and me is do!!!!11111
 credits lol:
 myself
-my few frends lol
-myself again
-the ᵇᵘˢᵗᵉʳ
+batunki
+my few relatives
+few more friends
 
 
 
