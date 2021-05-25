@@ -20,10 +20,10 @@ message from me 1: Hey, it's been a long time making an update! And while in tha
 And!..........
 im out of ideas plz hlep if u hlep tysm then u think maybe im gana put u in the credites if ur hlep and me is do!!!!11111
 credits lol:
-myself
-batunki
-my few relatives
-few more friends
+**myself**,
+**batunki**,
+**my few relatives**,
+**few more friends**
 
 
 
