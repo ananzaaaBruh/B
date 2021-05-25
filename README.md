@@ -1,4 +1,4 @@
-*-Note: Play the game if you are; familiar with **Gen Z humor** and a bit of gore jokes, experienced **Super Mario World** player. This game is a litteral joke, don't take everything seriously.-*
+*-Note: Play the game if you are; familiar with **Gen Z humor** and a bit of gore jokes, experienced **Super Mario World** player. This game is a litteral joke, don't take* *everything seriously.-*
 
 Hey, thanks for downloading my rom hack!
 I really worked on it, I hope you guys enjoyed!
