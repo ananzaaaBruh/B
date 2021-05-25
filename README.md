@@ -1,4 +1,4 @@
-*-Note: Play the game if you are; familiar with G e n Z h u m o r and a bit of gore jokes, experienced **Super Mario World** player.*
+*-Note: Play the game if you are; familiar with G e n Z h u m o r and a bit of gore jokes, experienced **Super Mario World** player.-*
 
 Hey, thanks for downloading my rom hack!
 I really worked on it, I hope you guys enjoyed!
