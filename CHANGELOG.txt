@@ -1,4 +1,4 @@
-all versions moment (the changelog is new so please respect that it started with version 1.4 :[)
+all versions moment (the changelog is new so please respect that it started with version 1.4 :[[)
 
 update 1.4:
 crashes has been fixed.
