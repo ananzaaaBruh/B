@@ -22,3 +22,5 @@ It has now less chance game to lag or freeze! (Except when there is too many cre
 The levels has been changed a little bit.
 Some bugs and glitches have been fixed.
 A lot more better grammar.
+It has a new snapshot system.
+The new snapshot system is going to apply in the next pre-release.
