@@ -1,5 +1,8 @@
 *-Note: Play the game if you are; familiar with **Gen Z humor** and a bit of gore jokes, experienced **Super Mario World** player. This game is for a joke, do not take anything* *said seriously.-*
 
+**By the way!**
+Don't forget to download new versions on the release page!
+
 Hey, thanks for downloading my rom hack!
 I really worked on it, I hope you guys enjoyed!
 For playing the game you need these programs:
